@@ -1,0 +1,2 @@
+# Contributing
+Describe the problem and scope before proposing a change. Use synthetic fixtures and small, reviewable changes. Run the documented checks before opening a pull request. Never include client data, credentials or screenshots of private systems. Use your own genuine Git identity; do not rewrite other contributors' authorship. Contributions must be compatible with this repository's licence.
